@@ -137,3 +137,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Libraries**: Thanks to the developers of [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), and [scikit-learn](https://scikit-learn.org/).
 - **Platform**: Gratitude to [Azure Machine Learning](https://ml.azure.com/) for enabling model development.
 - **Team**: The Data Mavericks team for their collaborative efforts in the hackathon.
+
+## Author
+- Theresa Gyamfi Allotey
