@@ -1,6 +1,6 @@
 # Red Wine Quality Regression Analysis
 
-This project, developed as part of the **Data Science Hackathon** by the **Data Mavericks** team, performs regression analysis on the Red Wine Quality dataset to predict wine quality based on physicochemical attributes. The dataset, sourced from the UCI Machine Learning Repository, contains 1,599 records of red wines with 12 columns. Using a linear regression model built in **Azure Machine Learning Designer**, the project aims to enhance sensory analysis systems, guide winemakers in raw material selection, and inform strategic pricing by identifying key factors influencing wine quality.
+This project, developed as part of my **Data Science Hackathon**, performs regression analysis on the Red Wine Quality dataset to predict wine quality based on physicochemical attributes. The dataset, sourced from the UCI Machine Learning Repository, contains 1,599 records of red wines with 12 columns. Using a linear regression model built in **Azure Machine Learning Designer**, the project aims to enhance sensory analysis systems, guide winemakers in raw material selection, and inform strategic pricing by identifying key factors influencing wine quality.
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
@@ -23,10 +23,10 @@ The solution involves building a linear regression model to predict wine quality
 
 ## Installation
 To run this project, ensure you have Python 3.x and Jupyter installed. The notebook uses the following Python libraries:
-- `numpy` (1.16.4) for numerical computations
-- `pandas` (0.24.2) for data manipulation
-- `matplotlib` (3.1.0) for plotting
-- `seaborn` (0.9.0) for enhanced visualizations
+- `numpy` for numerical computations
+- `pandas` for data manipulation
+- `matplotlib` for plotting
+- `seaborn` for enhanced visualizations
 - `scikit-learn` for regression modeling and evaluation
 
 Install the dependencies using:
